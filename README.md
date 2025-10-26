@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sh@dow</h1>
 <h3 align="center">invisible on the network, present everywhere else. Systems have flaws, I have time. Code is my language and silence my weapon. Trust no signal, decode everythings. Tracing the shadow of the web line by line. Sh@dow watches over the dilrnce network</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadow8021&label=Profile%20views&color=0e75b6&style=flat" alt="shadow8021" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadow8021&label=Profile%20views&color=0e75b6&style=flat" alt="Shadow8021" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shadow8021" alt="Shadow8021" /></a> </p>
 
