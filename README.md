@@ -1,15 +1,75 @@
-<h1 align="center">𝐇𝐢 👋, 𝐈'𝐦 𝐬𝐡@𝐝𝐨𝐰 </h1>
-<h3 align="center">𝐢𝐧𝐯𝐢𝐬𝐢𝐛𝐥𝐞 𝐨𝐧 𝐭𝐡𝐞 𝐧𝐞𝐭𝐰𝐨𝐫𝐤, 𝐩𝐫𝐞𝐬𝐞𝐧𝐭 𝐞𝐯𝐞𝐫𝐲𝐰𝐡𝐞𝐫𝐞 𝐞𝐥𝐬𝐞. 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐡𝐚𝐯𝐞 𝐟𝐥𝐚𝐰𝐬, 𝐈 𝐡𝐚𝐯𝐞 𝐭𝐢𝐦𝐞. 𝐂𝐨𝐝𝐞 𝐢𝐬 𝐦𝐲 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐚𝐧𝐝 𝐬𝐢𝐥𝐞𝐧𝐜𝐞 𝐦𝐲 𝐰𝐞𝐚𝐩𝐨𝐧. 𝐓𝐫𝐮𝐬𝐭 𝐧𝐨 𝐬𝐢𝐠𝐧𝐚𝐥, 𝐝𝐞𝐜𝐨𝐝𝐞 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠𝐬. 𝐓𝐫𝐚𝐜𝐢𝐧𝐠 𝐭𝐡𝐞 𝐬𝐡𝐚𝐝𝐨𝐰 𝐨𝐟 𝐭𝐡𝐞 𝐰𝐞𝐛 𝐥𝐢𝐧𝐞 𝐛𝐲 𝐥𝐢𝐧𝐞. 𝐒𝐡@𝐝𝐨𝐰 𝐰𝐚𝐭𝐜𝐡𝐞𝐬 𝐨𝐯𝐞𝐫 𝐭𝐡𝐞 𝐝𝐢𝐥𝐫𝐧𝐜𝐞 𝐧𝐞𝐭𝐰𝐨𝐫𝐤</h3>
+<!-- Profil README - Shadow8021 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadow8021&label=Profile%20views&color=0e75b6&style=flat" alt="Shadow8021" /> </p>
+<h1 align="center">👋 Hey, je suis <span style="color:#00ffcc;">Shadow8021</span></h1>
+<h3 align="center">💻 Développeur & Passionné de Cybersécurité | Créateur de HTS Academy</h3>
 
+---
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🕶️ À propos de moi
+- 🌐 Passionné par la **cybersécurité**, le **développement web** et la **programmation Python**
+- 🚀 J’aime créer, apprendre, et partager mes connaissances
+- ⚙️ Actuellement je travaille sur des projets autour de **React**, **PHP** et **Linux**
+- 🎯 Objectif : Devenir un expert en **sécurité offensive & développement full stack**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadow8021&show_icons=true&locale=en&layout=compact" alt="shadow8021" /></p>
+---
 
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadow8021&show_icons=true&locale=en" alt="shadow8021" /></p>
+### 🧰 Langages & Outils
 
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadow8021&" alt="shadow8021" /></p>
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windows)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+
+</div>
+
+---
+
+### 📊 Mes Statistiques GitHub
+
+<div align="center">
+
+![Shadow8021's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shadow8021&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+### 🔗 Connecte-toi avec moi
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gregor-martial-oyaga-5779b9311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/gregoroyaga3.0?igsh=eGphaGp1dHJxdWs0">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/share/17fSk4e55M/">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### ⚡ Citation du jour
+
+> "La vraie puissance d’un hacker réside dans la curiosité et la persévérance." – Unknown
+
+---
+
+<div align="center">
+
+🖤 _Made with passion by **Shadow8021**_ 🖤
+
+</div>
