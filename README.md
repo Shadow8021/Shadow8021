@@ -35,12 +35,15 @@
 
 ---
 
-### 📊 Mes Statistiques GitHub
+### 📊 Statistiques GitHub
 
 <div align="center">
 
-![Shadow8021's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shadow8021&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&theme=tokyonight)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Shadow8021&show_icons=true&theme=tokyonight&cache_seconds=60&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&theme=tokyonight&cache_seconds=60)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shadow8021&theme=tokyonight&hide_border=true)
 
 </div>
 
