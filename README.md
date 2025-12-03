@@ -10,7 +10,7 @@
 ### 🕶️ À propos de moi
 - 🌐 Passionné par la **cybersécurité**, le **développement web** et la **programmation Python**
 - 🚀 J’aime créer, apprendre, et partager mes connaissances
-- ⚙️ Actuellement je travaille sur des projets autour de **React**, **PHP** et **Linux**
+- ⚙️ Actuellement je travaille sur des projets autour de **React**, **NextJs**, **PHP** et **Linux**
 - 🎯 Objectif : Devenir un expert en **sécurité offensive & développement full stack**
 
 ---
