@@ -87,7 +87,7 @@
 
 ### ⚡ Citation du jour
 
-> "La vraie puissance d’un hacker réside dans la curiosité et la persévérance." – Unknown
+>« La connaissance ouvre la porte, mais c’est la discipline et la curiosité qui permettent de la franchir sans faire de bruit. » — Unknown
 
 ---
 
