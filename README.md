@@ -67,6 +67,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadow8021&theme=tokyo-night&hide_border=true" />
 </p>
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadow8021&theme=tokyonight)
 </div>
 
 ---
