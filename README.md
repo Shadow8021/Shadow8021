@@ -63,6 +63,10 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Shadow8021&theme=tokyonight&hide_border=true)
 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadow8021&theme=tokyo-night&hide_border=true" />
+</p>
 </div>
 
 ---
