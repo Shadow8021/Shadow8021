@@ -87,7 +87,7 @@
 
 ### ⚡ Citation du jour
 
->« La connaissance ouvre la porte, mais c’est la discipline et la curiosité qui permettent de la franchir sans faire de bruit. » — Sh@dow
+>« La connaissance ouvre la porte, mais c’est la discipline et la curiosité qui permettent de la franchir sans faire de bruit. » — Red_Sh@dow
 
 ---
 
