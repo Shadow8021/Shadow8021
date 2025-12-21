@@ -24,8 +24,6 @@
 ![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windows)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
@@ -45,9 +43,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+
 </div>
 
 
