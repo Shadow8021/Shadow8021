@@ -73,7 +73,6 @@
 ### 🔗 Connecte-toi avec moi
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/gregor-martial-oyaga-5779b9311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -83,7 +82,6 @@
 <a href="https://www.facebook.com/share/17fSk4e55M/">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-
 </div>
 
 ---
