@@ -84,7 +84,7 @@
 
 ---
 
-### ⚡ Citation du jour
+### ⚡ Citation du jour 
 
 >« Le savoir éclaire le chemin, mais c’est la rigueur qui avance et la curiosité qui ose quitter la route » — Red_Sh@dow
 
