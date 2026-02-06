@@ -92,6 +92,6 @@
 
 <div align="center">
 
-🖤 _Made with passion by **Red_Sh@dow**_ 🖤
+👣_Made with passion by **Red_Sh@dow**_ 👣
 
 </div>
