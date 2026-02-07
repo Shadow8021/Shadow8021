@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey, je suis Martial Oyaga <span style="color:#00ffcc;">(Red_Sh@dow)</span></h1>
 <h3 align="center">💻 Développeur & Passionné de Cybersécurité | Créateur de HTS Academy</h3>
 <p  align="center">Invisible sur les resaux, present partout ailleurs. Les systèmes ont des failles et moi j'ai le temps. Le code est ma langue, le silence mon arme. Traçant l'ombre du web, ligne par ligne dans le silence du resau</p>
-<h4 align="center">Trust no signal, decode everything</h4>
+<h4 align="center">Trust no signal, decode everything😈</h4>
 
 ---
 
