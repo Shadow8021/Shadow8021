@@ -108,8 +108,10 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 
 ### ⚡ Citation du jour
 
-> « Le savoir éclaire le chemin, la rigueur fait avancer,  
-> et la curiosité ose quitter la route. » — **Red_Sh@dow**
+> « <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Trust%20no%20system.%20Verify%20everything.&author=Red_Sh@dow" />
+</p>
+ » — **Red_Sh@dow**
 
 ---
 
