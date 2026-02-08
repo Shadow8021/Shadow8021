@@ -107,12 +107,9 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 ---
 
 ### ⚡ Citation du jour
-
-« <p align="center">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Trust%20no%20system.%20Verify%20everything.&author=Red_Sh@dow" />
 </p>
- »
-
 ---
 
 <div align="center">
