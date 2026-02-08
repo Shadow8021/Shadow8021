@@ -65,17 +65,17 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 
 <div align="center">
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Shadow8021&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Shadow8021&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=8b0000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=8b0000)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shadow8021&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shadow8021&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&dates=aaaaaa&hide_border=true)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadow8021&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadow8021&bg_color=000000&color=ffffff&line=ff0000&point=ff0000&area=true&hide_border=true" />
 </p>
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadow8021&theme=tokyonight)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadow8021&theme=github_dark)
 
 </div>
 
