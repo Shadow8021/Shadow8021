@@ -1,107 +1,128 @@
 <!-- Profil README - Shadow8021 -->
 
 <h1 align="center">👋 Hey, je suis Martial Oyaga <span style="color:#00ffcc;">(Red_Sh@dow)</span></h1>
-<h3 align="center">💻 Développeur Full Stack & Passionné de Cybersécurité | Créateur de HTS Academy</h3>
+<h3 align="center">💻 Développeur Full Stack & Cybersecurity Enthusiast | Founder of HTS Academy</h3>
 
 <p align="center">
 Invisible sur les réseaux, présent partout ailleurs.<br>
-Les systèmes ont des failles, et moi j’ai le temps.<br>
+Les systèmes ont des failles, moi j’ai la patience.<br>
 Le code est ma langue, le silence mon arme.<br>
-Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
+Je trace l’ombre du web, ligne par ligne, sans laisser de bruit.
 </p>
 
-<h4 align="center">Trust no signal, decode everything 😈</h4>
+<h4 align="center">Trust no signal — Decode everything 😈</h4>
 
 ---
 
-### 🕶️ À propos de moi
-- 🌐 Passionné par la **cybersécurité**, le **développement web** et la **programmation Python**
-- 🚀 J’aime créer, apprendre et transmettre
-- ⚙️ Je bosse actuellement avec **React**, **Next.js**, **Node.js**, **PHP**, **Linux**
-- 🎯 Objectif : devenir **expert en sécurité offensive & développement full stack**
+## 🕶️ À propos de moi
+- 🌐 Passionné par la **cybersécurité offensive**, le **web moderne** et l’**automatisation**
+- ⚙️ Stack principale : **React, Next.js, Node.js, Tailwind, MySQL**
+- 🐧 À l’aise sous **Linux**, scripting et logique système
+- 🎯 Objectif : devenir **expert Red Team & Full Stack Engineer**
+- 🧠 Philosophie : *comprendre comment ça casse pour savoir comment le protéger*
 
 ---
 
-### 🧰 Langages & Outils
+## 🧰 Langages & Outils
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
-![Windows](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windows)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="40" alt="react router" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 </div>
 
 ---
 
-### 📊 Statistiques GitHub
+## 🧪 Cybersécurité & Hacking Skills
+- 🔍 Reconnaissance & enumeration
+- 🛠️ Web vulnerabilities (XSS, SQLi, Auth flaws, misconfig)
+- 🧠 Logique offensive / mindset attaquant
+- 🐍 Scripts Python pour automatisation
+- 🧪 Labs & challenges (CTF-style)
+
+> *“Si tu comprends comment une attaque fonctionne, tu comprends comment la bloquer.”*
+
+---
+
+## 🚀 Projets & Labs
+- 🕵️ **HTS Academy** – Plateforme d’apprentissage tech & cyber
+- 🌐 **Apps Web Full Stack** (React / Next / Node / MySQL)
+- 🔐 **Mini tools sécurité** (scan, validation, scripts)
+- 🧪 **Labs personnels** orientés vulnérabilités web
+
+*(Certains projets sont privés. Le silence fait partie de la stratégie.)*
+
+---
+
+## 🛣️ Roadmap personnelle
+- ✅ Frontend moderne (React / Next / Tailwind)
+- ✅ Backend & DB (Node / MySQL)
+- 🔄 Sécurité Web avancée
+- 🔄 Pentesting & Red Team basics
+- ⏭️ Reverse / Exploitation / Cloud Security
+
+---
+
+## 📊 Statistiques GitHub
 
 <div align="center">
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Shadow8021&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=Shadow8021&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shadow8021&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=Shadow8021&theme=tokyonight)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadow8021&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadow8021&theme=tokyo-night"/>
 </p>
-
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadow8021&theme=tokyonight)
 
 </div>
 
 ---
 
-### 🔗 Connecte-toi avec moi
+## 🔗 Connecte-toi avec moi
 
 <div align="center">
 <a href="https://www.linkedin.com/in/gregor-martial-oyaga-5779b9311">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="https://www.instagram.com/gregoroyaga3.0">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/share/17fSk4e55M/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 </div>
 
 ---
 
-### ⚡ Citation du jour
-
-> « Le savoir éclaire le chemin, la rigueur fait avancer,  
-> et la curiosité ose quitter la route. » — **Red_Sh@dow**
+## ⚡ Citation
+> « Le bruit attire l’attention.  
+> Le silence construit la maîtrise. » — **Red_Sh@dow**
 
 ---
 
 <div align="center">
 
-👣 _Made with passion by **Red_Sh@dow**_ 👣
+👣 _Crafted in the shadows by **Red_Sh@dow**_ 👣
 
 </div>
