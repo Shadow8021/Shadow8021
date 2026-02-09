@@ -1,4 +1,4 @@
-<!-- RED_SH@DOW - SHADOW FUSION README -->
+<!-- RED_SH@DOW -- SHADOW FUSION README -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8b0000,100:ff0000&height=230&section=header&text=Red_Sh@dow&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
