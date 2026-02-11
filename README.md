@@ -67,11 +67,9 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Shadow8021&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="170em"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&theme=radical" height="170em"/>
-
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Lemy&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab">
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&theme=radical" height="170em"/>
 </p>
 
 <p align="center">
