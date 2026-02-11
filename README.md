@@ -70,7 +70,8 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&theme=radical" height="170em"/>
+</p>
 </p>
 
 <p align="center">
