@@ -66,7 +66,6 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadow8021&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api?username=Shadow8021&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="170em"/>
 </p>
 
