@@ -64,14 +64,6 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 ### 📊 Statistiques GitHub
 
 <div align="center">
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shadow8021&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="170em"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&theme=radical" height="170em"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Shadow8021&theme=radical&hide_border=true" />
 </p>
