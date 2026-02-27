@@ -64,12 +64,13 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 ### 📊 Statistiques GitHub
 
 <div align="center">
-<h1 align="center">Hi 👋, I'm Shadow8021</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shadow8021&show_icons=true&theme=tokyonight" />
+ </p>
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&theme=tokyonight" />
-</p>
+ </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Shadow8021&theme=radical&hide_border=true" />
 </p>
