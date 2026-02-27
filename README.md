@@ -64,7 +64,9 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 ### 📊 Statistiques GitHub
 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&theme=tokyonight)
+  <div align="center">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&theme=tokyonight)
+    </div>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Shadow8021&theme=radical&hide_border=true" />
 </p>
