@@ -8,7 +8,7 @@
 <h3 align="center">💻 Développeur Full Stack & Passionné de Cybersécurité | Créateur de HTS Academy</h3>
 
 <p align="center">
-Invisible sur les réseaux, présent partout ailleurs.<br>
+Invisible sur les réseaux sociaux, hyper présent dans le code.<br>
 Les systèmes ont des failles, et moi j’ai le temps.<br>
 Le code est ma langue, le silence mon arme.<br>
 Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
