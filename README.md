@@ -21,7 +21,7 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 ### 🕶️ À propos de moi
 - 🌐 Passionné par la **cybersécurité offensive**, le **développement web** et la **programmation Python, C et JavaScript**
 - 🚀 J’aime créer, apprendre et transmettre
-- ⚙️ Je bosse actuellement avec **React**, **Next.js**, **Node.js**, **PHP**, **Linux**
+- ⚙️ Je bosse actuellement avec **React**, **Next.js**, **Node.js**, **PHP**, **Docker**, **Linux**
 - 🎯 Objectif : devenir **expert en sécurité offensive, pentesting & développement full stack**
 
 ---
