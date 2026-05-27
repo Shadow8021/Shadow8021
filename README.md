@@ -14,7 +14,7 @@ Le code est ma langue, le silence mon arme.<br>
 Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 </p>
 
-<h4 align="center">Trust no signal, decode everything 😈</h4>
+<h4 align="center">Trust no signal, decode everything. Verify, authenticate, innovate 😈</h4>
 
 ---
 
