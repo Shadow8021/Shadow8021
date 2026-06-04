@@ -9,7 +9,7 @@
 
 <p align="center">
 Invisible sur les réseaux sociaux, hyper présent dans le code.<br>
-Les systèmes ont des failles, et moi j’ai le temps.<br>
+Les systèmes ont des failles, moi j'ai les solutions.<br>
 Le code est ma langue, le silence mon arme.<br>
 Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 </p>
