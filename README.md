@@ -8,21 +8,21 @@
 <h3 align="center">💻 Développeur Full Stack & Passionné de Cybersécurité | Créateur de HTS Academy</h3>
 
 <p align="center">
-Invisible sur les réseaux sociaux, hyper présent dans le code.<br>
-Les systèmes ont des failles, moi j'ai les solutions.<br>
+Invisible sur les réseaux, présent partout ailleurs.<br>
+Les systèmes ont des failles, et moi j’ai le temps.<br>
 Le code est ma langue, le silence mon arme.<br>
 Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 </p>
 
-<h4 align="center">Trust no signal, decode everything. Verify, authenticate, innovate 😈</h4>
+<h4 align="center">Trust no signal, decode everything 😈</h4>
 
 ---
 
 ### 🕶️ À propos de moi
-- 🌐 Passionné par la **cybersécurité offensive**, le **développement web** et la **programmation Python, C et JavaScript**
+- 🌐 Passionné par la **cybersécurité**, le **développement web** et la **programmation Python et C**
 - 🚀 J’aime créer, apprendre et transmettre
-- ⚙️ Je bosse actuellement avec **React**, **Next.js**, **Node.js**, **PHP**, **Docker**, **Kubernetes**, **Linux**
-- 🎯 Objectif : devenir **expert en sécurité offensive, pentesting & développement full stack**
+- ⚙️ Je bosse actuellement avec **React**, **Next.js**, **Node.js**, **PHP**, **Linux**
+- 🎯 Objectif : devenir **expert en sécurité offensive & développement full stack**
 
 ---
 
