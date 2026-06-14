@@ -65,11 +65,11 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 
 <div align="center">
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shadow8021&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Shadow8021&theme=algolia&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadow8021&theme=redical&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadow8021&theme=algolia&hide_border=true"/>
 </p>
 
 <p align="center">
