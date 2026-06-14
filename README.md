@@ -77,6 +77,8 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 </p>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api?username=Shadow8021&theme=algolia&show_icons=true)](https://github.com/Shadow8021)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&theme=algolia)
 </div>
 
 
