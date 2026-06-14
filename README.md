@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">👋 Hey, je suis Martial Oyaga <span style="color:#00ffcc;">(Red_Sh@dow)</span></h1>
-<h3 align="center">💻 Développeur Full Stack & Passionné de Cybersécurité | Créateur de HTS Academy</h3>
+<h3 align="center">💻 Développeur Junior & Passionné de Cybersécurité | Créateur de HTS Academy</h3>
 
 <p align="center">
 Invisible sur les réseaux, présent partout ailleurs.<br>
