@@ -76,6 +76,9 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadow8021&theme=radical" />
 </p>
 
+<p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api?username=Shadow8021&theme=algolia&show_icons=true)](https://github.com/Shadow8021)
+</p>
 </div>
 
 
