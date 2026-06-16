@@ -84,7 +84,7 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 
 ---
 
-### 🔗 Connecte-toi avec moi
+### 🔗 Connecte-toi avec moi sur:
 
 <div align="center">
 <a href="https://www.linkedin.com/in/gregor-martial-oyaga-5779b9311">
