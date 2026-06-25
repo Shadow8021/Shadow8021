@@ -19,6 +19,7 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 ---
 
 ### 🕶️ À propos de moi
+
 - 🌐 Passionné par la **cybersécurité**, le **développement Web & Mobile** et des **Reseaux informatiques**
 - 🚀 J’aime créer, apprendre et transmettre
 - ⚙️ Je bosse actuellement avec **Laravel** ,**Flutter**, **Next.js**, **Node.js**, **PHP**, **Linux**
@@ -59,6 +60,8 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
 </div>
 
 ---
@@ -78,11 +81,11 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadow8021&theme=algolia" />
 </p>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api?username=Shadow8021&theme=algolia&show_icons=true)](https://github.com/Shadow8021)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Shadow8021&theme=algolia&show_icons=true)](https://github.com/Shadow8021)
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&theme=algolia)
-</div>
 
+</div>
 
 ---
 
@@ -103,6 +106,7 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 ---
 
 ### ⚡ Citation du jour
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Trust%20no%20system.%20Verify%20everything.&author=Red_Sh@dow" />
 </p>
