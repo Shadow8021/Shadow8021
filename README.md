@@ -34,7 +34,6 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windows)
@@ -45,8 +44,6 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 <div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="40" alt="react router" />
   <img width="12" />
