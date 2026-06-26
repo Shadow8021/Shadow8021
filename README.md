@@ -32,11 +32,8 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
-![Windows](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windows)
+![JavaScript](https://img.shields.io/badge/-JS-000?style=for-the-badge&logo=javascript)
+![c++](https://img.shields.io/badge/--000?style=for-the-badge&logo=c)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 
 </div>
@@ -58,6 +55,10 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
 </div>
 
 ---
