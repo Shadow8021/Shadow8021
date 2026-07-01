@@ -111,7 +111,7 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 
 <div align="center">
 
-😮‍💨 _Made with passion by **Red_Sh@dow**_ 😮‍💨
+😮‍💨 _Made with passion by **Red Sh@dow**_ 😮‍💨
 
 </div>
 <p align="center">
