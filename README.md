@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">👋 Hey, je suis Martial Oyaga <span style="color:#00ffcc;">(Red_Sh@dow)</span></h1>
-<h3 align="center">💻 Développeur Junior & Passionné de Cybersécurité | Créateur de HTS Academy </h3>
+<h3 align="center">💻 Développeur Junior & Passionné de Cybersécurité | Créateur de HTS Academy</h3>
 
 <p align="center">
 Invisible sur les réseaux, présent partout ailleurs.<br>
@@ -22,7 +22,7 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 
 - 🌐 Passionné par la **cybersécurité**, le **développement Web & Mobile** et des **Reseaux informatiques**
 - 🚀 J’aime créer, apprendre et transmettre
-- ⚙️ Je bosse actuellement avec **Laravel** ,**Flutter**, **Next.js**, **Node.js**, **C++**, **Linux**
+- ⚙️ Je bosse actuellement avec **Laravel** ,**Flutter**, **Next.js**, **Node.js**, **PHP**, **Linux**
 - 🎯 Objectif : devenir **expert en sécurité offensive & développement full stack**
 
 ---
@@ -33,7 +33,7 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JS-000?style=for-the-badge&logo=javascript)
-![c++](https://img.shields.io/badge/-++-000?style=for-the-badge&logo=c)
+![c++](https://img.shields.io/badge/--000?style=for-the-badge&logo=c)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 
 </div>
@@ -78,6 +78,8 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadow8021&theme=algolia" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Shadow8021&theme=algolia&show_icons=true)](https://github.com/Shadow8021)
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&theme=algolia)
 
 </div>
@@ -109,7 +111,7 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 
 <div align="center">
 
-😮‍💨 _Made with passion by **Red Sh@dow**_ 😮‍💨
+😮‍💨 _Made with passion by **Red_Sh@dow**_ 😮‍💨
 
 </div>
 <p align="center">
