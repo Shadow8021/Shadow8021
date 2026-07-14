@@ -33,7 +33,7 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JS-000?style=for-the-badge&logo=javascript)
-![c++](https://img.shields.io/badge/--000?style=for-the-badge&logo=c)
+![c++](https://img.shields.io/badge/-++-000?style=for-the-badge&logo=c)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 
 </div>
