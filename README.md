@@ -61,7 +61,6 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
 </div>
 
-
 ---
 
 ### 📊 Statistiques GitHub
@@ -78,8 +77,6 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadow8021&theme=algolia" />
 </p>
-
-
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shadow8021&layout=compact&theme=algolia)
 
@@ -112,7 +109,7 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 
 <div align="center">
 
-😮‍💨 _Made with passion by **Red_Sh@dow**_ 😮‍💨
+😮‍💨 _Made with passion by **Sh@dow**_ 😮‍💨
 
 </div>
 <p align="center">
