@@ -63,7 +63,7 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 Statistique GitHub
 
 <div align="center">
 <p align="center">
