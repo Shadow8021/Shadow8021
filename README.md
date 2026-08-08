@@ -115,6 +115,6 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&colgvfcor=0:ff0000,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&colgvfcor=0:ggffddff0000,100:000000&height=120&section=footer"/>
 </p>
 tydyryrxeeeeeee
