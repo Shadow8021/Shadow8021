@@ -105,16 +105,15 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 ### ⚡ Citation du jour
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?tyjjjjjpe=horizontal&theme=dark&quote=Trust%20no%20sybstem.%20Verify%20everything.&author=Red_Sh@dow" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Trust%20no%20system.%20Verify%20everything.&author=Red_Sh@dow" />
 </p>
 ---
 
 <div align="center">
 
-😮‍💨 _Made with passion by **Red_Sh@dow**_ 😮‍💨hhhhhbyu
+😮‍💨 _Made with passion by **Red_Sh@dow**_ 😮‍💨
 
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&colgvfcor=0:ggffddff0000,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=120&section=footer"/>
 </p>
-tydyryrxeeeeeee
