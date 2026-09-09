@@ -37,7 +37,7 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 ### 🔨Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,postman,vim,npm,pnpm,visualstudio,ps,pycharm,nest" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,postman,vim,npm,pnpm,visualstudio,ps,pycharm" />
   </a>
 </p>
 
