@@ -66,22 +66,16 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 ### 🔗 Connecte-toi avec moi sur:
 
 <div align="left">
-<a href="https://www.linkedin.com/in/gregor-martial-oyaga-5779b9311">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<a href="https://www.linkedin.com/in/gregor-martial-oyaga-5779b9311"> 
+  <img src="https://skillicons.dev/icons?i=linkedin" /> 
 </a>
+
 <a href="https://www.instagram.com/gregoroyaga3.0">
-<span>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a></span>
+   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 <a href="https://www.facebook.com/share/17fSk4e55M/">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
+   <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 </div>
 
@@ -102,3 +96,4 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=120&section=footer"/>
 </p>
+****
