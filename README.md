@@ -1,11 +1,10 @@
 <!-- RED_SH@DOW -- SHADOW FUSION README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8b0000,100:ff0000&height=230&section=header&text=Red_Sh@dow&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://www.gitskins.com/api/section/hero?username=shadow8021&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F116173539%3Fu%3De62eb8a909498cf94ddc86dbd5f19f09f69c1c9b%26v%3D4" alt="shadow8021 hero visual" />
 </p>
 
-<h1 align="center">👋 Hey, je suis Martial Oyaga <span style="color:#00ffcc;">(Red_Sh@dow)</span></h1>
-<h3 align="center">💻 Développeur Junior & Passionné de Cybersécurité | Créateur de HTS Academy</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=19&duration=6000&pause=1000&center=true&width=684&lines=%F0%9F%92%BB+%F0%9D%97%9D%F0%9D%98%82%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BF+%F0%9D%97%A3%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF+%7C+%F0%9D%97%96%F0%9D%98%86%F0%9D%97%AF%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+%F0%9D%97%98%F0%9D%97%BB%F0%9D%97%B4%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%BF%7C%F0%9D%97%97%C3%A9%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%BD%F0%9D%97%B2%F0%9D%98%82%F0%9D%97%BF;Passionn%C3%A9+par+la+tech+et+des+Reseaux+informatiques)](https://git.io/typing-svg)
 
 <p align="center">
 Invisible sur les réseaux, présent partout ailleurs.<br>
@@ -22,49 +21,27 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 
 - 🌐 Passionné par la **cybersécurité**, le **développement Web & Mobile** et des **Reseaux informatiques**
 - 🚀 J’aime créer, apprendre et transmettre
-- ⚙️ Je bosse actuellement avec **Laravel** ,**Flutter**, **Next.js**, **Node.js**, **PHP**, **Linux**,**Django**
+- ⚙️ Je bosse actuellement avec **Laravel** ,**Flutter**, **Next.js**, **Node.js**, **PHP**, **Linux**
 - 🎯 Objectif : devenir **expert en sécurité offensive & développement full stack**
 
 ---
 
-### 🧰 Langages & Outils
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/-JS-000?style=for-the-badge&logo=javascript)
-![c++](https://img.shields.io/badge/-++-000?style=for-the-badge&logo=c)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-
-</div>
-
-<div align="center">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="40" alt="react router" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" />
-</div>
+### 🧰 Stacks 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,cpp,py,php,ts,flutter,laravel,next,tailwind,nodejs,mysql" />
+  </a>
+</p>
 
 ---
+### 🔨Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,postman,vim,npm,pnpm,visualstudio,ps,pycharm,nest" />
+  </a>
+</p>
 
+---
 ### 📊 Statistiques GitHub
 
 <div align="center">
@@ -88,15 +65,22 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 
 ### 🔗 Connecte-toi avec moi sur:
 
-<div align="center">
+<div align="left">
 <a href="https://www.linkedin.com/in/gregor-martial-oyaga-5779b9311">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </a>
 <a href="https://www.instagram.com/gregoroyaga3.0">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </a>
+
 <a href="https://www.facebook.com/share/17fSk4e55M/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
 </a>
 </div>
 
