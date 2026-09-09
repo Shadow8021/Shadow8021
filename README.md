@@ -7,9 +7,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=19&duration=6000&pause=1000&center=true&width=684&lines=%F0%9F%92%BB+%F0%9D%97%9D%F0%9D%98%82%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BF+%F0%9D%97%A3%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF+%7C+%F0%9D%97%96%F0%9D%98%86%F0%9D%97%AF%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+%F0%9D%97%98%F0%9D%97%BB%F0%9D%97%B4%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%BF%7C%F0%9D%97%97%C3%A9%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%BD%F0%9D%97%B2%F0%9D%98%82%F0%9D%97%BF;Passionn%C3%A9+par+la+tech+et+des+Reseaux+informatiques)](https://git.io/typing-svg)
 
 <p align="center">
-Invisible sur les réseaux, présent partout ailleurs.<br>
-Les systèmes ont des failles, et moi j’ai le temps.<br>
-Le code est ma langue, le silence mon arme.<br>
+Invisible sur les réseaux, présent partout ailleurs.
+Les systèmes ont des failles, et moi j’ai le temps.
+Le code est ma langue, le silence mon arme.
 Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 </p>
 
@@ -27,7 +27,7 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 ---
 
 ### 🧰 Stacks 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,docker,cpp,py,php,ts,flutter,laravel,next,tailwind,nodejs,mysql" />
   </a>
@@ -35,7 +35,7 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 
 ---
 ### 🔨Tools
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,postman,vim,npm,pnpm,visualstudio,ps,pycharm,nest" />
   </a>
@@ -72,9 +72,10 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
   </a>
 </a>
 <a href="https://www.instagram.com/gregoroyaga3.0">
+<span>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  </a></span>
 </a>
 
 <a href="https://www.facebook.com/share/17fSk4e55M/">
