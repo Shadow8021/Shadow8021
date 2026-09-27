@@ -29,7 +29,7 @@ Je trace l’ombre du web, ligne par ligne, dans le silence du réseau.
 ### 🧰 Stacks 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,cpp,py,php,ts,flutter,laravel,next,tailwind,nodejs,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,cpp,py,php,ts,flutter,laravel,next,fastapi,express,tailwind,nodejs,mysql,sqlite" />
   </a>
 </p>
 
